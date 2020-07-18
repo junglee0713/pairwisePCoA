@@ -1,0 +1,14 @@
+Package: pairwisePCoA
+Type: Package
+Title: Create Pairwise PCoA Plots
+Version: 0.1.0
+Author: Jung-Jin Lee
+Maintainer: Jung-Jin Lee <junglee0713@gmail.com>
+Description: Take metadata, distance matrix, and grouping variable as input.
+    Returns PCoA plots for each possible pairs of the grouping variable.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
+RoxygenNote: 7.1.0
