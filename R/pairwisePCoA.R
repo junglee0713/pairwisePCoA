@@ -1,7 +1,7 @@
 #' Pairwise PCoA plots
 #'
 #' @param s Metadata
-#' @param dist_beta Distance objectt
+#' @param dist_beta Distance object
 #' @param color_by Grouping variable
 #' @return Pairwise PCoA plots
 #' @export
