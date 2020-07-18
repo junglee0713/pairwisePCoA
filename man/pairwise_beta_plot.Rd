@@ -9,7 +9,7 @@ pairwise_beta_plot(s, dist_beta, color_by)
 \arguments{
 \item{s}{Metadata}
 
-\item{dist_beta}{Distance objectt}
+\item{dist_beta}{Distance object}
 
 \item{color_by}{Grouping variable}
 }
